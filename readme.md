@@ -14,9 +14,6 @@ This document summarizes the most important steps and commands shown in the vide
 8. [Working with Variables](#8-working-with-variables)
 9. [Documentation](#9-documentation)
 10. [Reporting Issues & GitHub](#10-reporting-issues--github)
-11. [Conclusion](#11-conclusion)
-
----
 
 ## 1. Installation and Enabling Auto Completion
 
@@ -138,10 +135,5 @@ Example Use Case:
   - Check via `fcli util all-commands list -h`.
 - The fcli team prefers that bugs and enhancement requests be opened as an issue on GitHub.
 - **Caution**: The GitHub Issues page is public. If you need to share confidential information, contact your OpenText representative.
-
-## 11. Conclusion
-- This document provides an overview of essential `fcli` commands.
-- The concepts (help functionality, output formats, queries, variables) also apply to product-specific commands.
-- Future videos will explore additional product-specific modules (SSC, FoD, etc.).
 
 **Happy fcli usage!** If you have any questions or ideas for improvements, feel free to reach out.
